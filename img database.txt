@@ -1,0 +1,5 @@
+database columns
+database name is images
+table one is called imgs
+fields is imgid,img,imgname,imgclass,checksum,width,height,ext
+primary keys is checksum.
