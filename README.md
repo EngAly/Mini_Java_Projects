@@ -1,5 +1,5 @@
 # Java
-These files are mainly intended to accompany my series of YouTube tutorial videos here, 
+These files are mainly intended to accompany  series of YouTube tutorial videos here, 
 https://www.youtube.com/user/joejamesusa
 and are mainly intended for educational purposes.
 You are invited to subscribe to my video channel, and to download and use any code in 
